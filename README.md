@@ -6,10 +6,10 @@ Most client and product code is private. The contribution graph is the public tr
 
 ## Products
 
-- **[Woblip](https://woblip.com)** — time clock / control horario for hospitality and multi-store teams
-- **[MapEat](https://mapeat.com)** — restaurant discovery: map + vertical food video
-- **[Trawel](https://trawel.io)** — Trawel App (MapEat rebrand / travel product line)
-- **ModelPack** — modeling / packing product line
+- **[Woblip](https://woblip.com)** - time clock / control horario for hospitality and multi-store teams
+- **[MapEat](https://mapeat.com)** - restaurant discovery: map + vertical food video
+- **[Trawel](https://trawel.io)** - Trawel App (MapEat rebrand / travel product line)
+- **ModelPack** - modeling / packing product line
 
 ## Webs recientes
 
@@ -32,13 +32,13 @@ Most client and product code is private. The contribution graph is the public tr
 
 ## Clients & partners
 
-- Masaveu — internal apps
-- Partner Tecnológico — ongoing engineering collaboration
-- Production Paradise — awards platform and site
+- Masaveu - internal apps
+- Partner Tecnológico - ongoing engineering collaboration
+- Production Paradise - awards platform and site
 - Jovi
 - QIDA
 - Grupo Pangea
-- Santagloria — Woblip pilot
+- Santagloria - Woblip pilot
 
 ## Company
 
