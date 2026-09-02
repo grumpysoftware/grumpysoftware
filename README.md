@@ -24,12 +24,10 @@ Most client and product code is private. The contribution graph is the public tr
 - [strang.design](https://strang.design)
 - [coramerrickpark.com](https://coramerrickpark.com)
 - [thestandardresidencesbrickell.com](https://thestandardresidencesbrickell.com/)
-- [fivesixty.com](https://fivesixty.com)
-- [ziggurat.es](https://ziggurat.es)
-- [graziano.es](https://graziano.es)
+- [zigguratcoconutgrove.com](https://zigguratcoconutgrove.com/)
+- [grazianosgroup.com](https://grazianosgroup.com)
 - [vidabonica.com](https://vidabonica.com)
 - [gurrimatute.com](https://gurrimatute.com)
-- [investel.es](https://investel.es)
 - …and many more
 
 ## Clients & partners
